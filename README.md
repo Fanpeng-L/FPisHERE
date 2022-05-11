@@ -1,5 +1,5 @@
-## 👋 Hi, I’m Frida @FPisHERE
-- 👩🏻‍💻 self-taught programming right now
+## 👋 Hi, I’m Fanpeng @FPisHERE
+- 👩🏻‍💻 self-taught programming
 - 🐈 cat owner
 - 🎬 movie lover
 - ✈️⛱🏝🛳🚁⛩🪁🛼🏂🗿🏜
