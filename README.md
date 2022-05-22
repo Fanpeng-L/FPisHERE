@@ -1,8 +1,7 @@
-## 👋 Hi, I’m Fanpeng @FPisHERE
-- 👩🏻‍💻 self-taught programming
+## 👋 Hi, I’m Fanpeng
 - 🐈 cat owner
-- 🎬 movie lover
-- ✈️⛱🏝🛳🚁⛩🪁🛼🏂🗿🏜
+- 🪐 daydreamer
+- 🇨🇳native/🇺🇸C1/🇫🇷🇯🇵Beginner
 
 <!---
 FPisHERE/FPisHERE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
